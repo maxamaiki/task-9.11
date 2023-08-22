@@ -1,0 +1,22 @@
+.container {
+    max-width: 1300px;
+    margin: 200px;
+    height: auto;
+  }
+
+  .card-header {
+    background-color: rgba(0, 255, 255, 0.394);
+    font-size: x-large;
+    font-weight: 400;
+    text-shadow: 1px 1px 1px #4F4F4F, 1px 0px 1px #4F4F4F;
+  }
+
+  .card-body {
+    background-color: #00a2ff17;
+    font-size: medium;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+  }
+
+
+
+  
